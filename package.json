@@ -17,5 +17,8 @@
     "cambur-ui": "^1.0.0",
     "lit": "^3.1.4",
     "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
   }
 }
