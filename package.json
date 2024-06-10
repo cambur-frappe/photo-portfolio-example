@@ -11,8 +11,11 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.7.0",
+    "@astrojs/lit": "^4.2.0",
+    "@webcomponents/template-shadowroot": "^0.2.1",
     "astro": "^4.9.2",
     "cambur-ui": "^1.0.0",
+    "lit": "^3.1.4",
     "typescript": "^5.4.5"
   }
 }
